@@ -1,0 +1,2 @@
+/*----- go top css by david huang -----*/
+.scroll-top {z-index: 999;position: fixed;right: 2%;width: 45px;height: 45px;bottom: 5%;opacity: 0.8;}.scroll-top .btn {background-color: #818182;border-color: #818182;color: #f8f9fa;border-radius: 50%;}.scroll-top a.btn:active:focus {background-color: #818182;border-color: #eee;}
